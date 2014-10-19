@@ -1,0 +1,13 @@
+E:\二次开发\projects\LSM\LSM\bin\Debug\LSM.exe
+E:\二次开发\projects\LSM\LSM\bin\Debug\LSM.pdb
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM1.ANNForm.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.GenEvalSamplesForm.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.GenTrainSamplesForm.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.MainForm.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.Properties.Resources.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.csproj.GenerateResource.Cache
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.exe
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.pdb
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.DrawCurve.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.AUCForm.resources
+E:\二次开发\projects\LSM\LSM\obj\x86\Debug\LSM.csprojResolveAssemblyReference.cache
